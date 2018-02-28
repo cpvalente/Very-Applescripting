@@ -9,3 +9,5 @@ VLC
 - VLC Fullscreen
 - VLC Play
 - VLC Rewind Pause
+
+I have also added some Terminal commands for common operations for show critical machines
