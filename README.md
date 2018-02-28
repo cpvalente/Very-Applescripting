@@ -5,6 +5,9 @@ Designed to work with iCal
 I should really add a description of what the files do.
 At some point... it is pretty self explanatory so far
 
+Util
+- Start Chrome in given page and toggle to fullscreen
+
 VLC
 - VLC Fullscreen
 - VLC Play

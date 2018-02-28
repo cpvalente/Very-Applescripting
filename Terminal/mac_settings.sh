@@ -11,6 +11,12 @@ sudo pmset -a displaysleep 0 disksleep 0 sleep 0
 # Disable Screen Saver
 defaults -currentHost write com.apple.screensaver idleTime 0
 
+# Disable Energy Saver
+sudo pmset -a systemsleep 0 displaysleep 0 autorestart 1
+
+# Disable System Sounds
+defaults write com.apple.systemsound "com.apple.sound.uiaudio.enabled" -int 0
+
 # Disable Time Machine
 sudo tmutil disable
 
