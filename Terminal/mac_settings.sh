@@ -44,6 +44,3 @@ sudo chmod 000 /System/Library/CoreServices/Problem\ Reporter.app
 # Hide all desktop Icons
 defaults write com.apple.finder CreateDesktop -bool false;
 killall Finder
-
-# re enable With
-#defaults write com.apple.finder CreateDesktop -bool true;
