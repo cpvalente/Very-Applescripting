@@ -11,6 +11,7 @@ Util
 
 VLC
 - VLC Fullscreen
+- VLC Open in Fullscreen with check
 - VLC Play
 - VLC Rewind Pause
 
