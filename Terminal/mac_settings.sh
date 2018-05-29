@@ -15,7 +15,7 @@ defaults -currentHost write com.apple.screensaver idleTime 0
 sudo pmset -a systemsleep 0 displaysleep 0 autorestart 1
 
 # Turn on restart from crash or power failure
-sudo systemsetup -getrestartfreeze -getrestartpowerfailure
+sudo systemsetup -setrestartfreeze on -setrestartpowerfailure on
 
 # Disable System Sounds
 defaults write com.apple.systemsound "com.apple.sound.uiaudio.enabled" -int 0
