@@ -8,6 +8,7 @@ At some point... it is pretty self explanatory so far
 
 Util
 - Start Chrome in given page and toggle to fullscreen
+- Fade out system sound in given time
 
 VLC
 - VLC Fullscreen
